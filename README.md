@@ -16,6 +16,7 @@
 | A/B-тестирование | Провести оценку результатов A/B-теста| plotly.express, matplotlib.pyplot, pandas, seaborn, datetime, scipy.stats, numpy, math | [A/B-тестирование](https://github.com/Samoylowao/Portfolio/blob/main/AB%20test%20final/AB%20%D1%82%D0%B5%D1%81%D1%82%20%D1%84%D0%B8%D0%BD%D0%B0%D0%BB.ipynb)|
 
 Дашборды:
+
 1.[Сегментация пользователей "Метанпромбанк" по потреблению]( https://public.tableau.com/views/banks_16734487180560/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) 
 
 Задачи: 
