@@ -17,7 +17,7 @@
 
 Дашборды:
 
-1.[Сегментация пользователей "Метанпромбанк" по потреблению]( https://public.tableau.com/views/banks_16734487180560/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) 
+- [Сегментация пользователей "Метанпромбанк" по потреблению]( https://public.tableau.com/views/banks_16734487180560/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) 
 
 Задачи: 
 
@@ -27,7 +27,7 @@
 
 
 
-2.  [Анализ взаимодействия пользователей с карточками Яндекс.Дзен.]( https://public.tableau.com/views/_16714375761410/sheet4_1?:language=en-US&:display_count=n&:origin=viz_share_link)
+- [Анализ взаимодействия пользователей с карточками Яндекс.Дзен.]( https://public.tableau.com/views/_16714375761410/sheet4_1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 Задачи: 
 
